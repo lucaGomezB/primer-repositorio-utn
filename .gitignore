@@ -1,5 +1,5 @@
 #Archivos de logs
-.log
+.git/logs/
 #Directorios de compilación
 /target/
 #Configuración específica del sistema
